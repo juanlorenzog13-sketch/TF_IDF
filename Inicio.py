@@ -5,7 +5,7 @@ import pandas as pd
 import re
 from nltk.stem import SnowballStemmer
 
-st.title("Demo de TF-IDF con Preguntas y Respuestas")
+st.title("Modulo de preguntas y respuestas (Español)")
 
 st.write("""
 Cada línea se trata como un **documento** (puede ser una frase, un párrafo o un texto más largo).  
