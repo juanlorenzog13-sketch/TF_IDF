@@ -5,7 +5,7 @@ import pandas as pd
 import re
 from nltk.stem import SnowballStemmer
 
-st.title("Modulo de preguntas y respuestas (Español)")
+st.title("Guru de respuestas. Puede decifrar todo. (Español)")
 
 st.write("""
 Cada línea se trata como un **documento** (puede ser una frase, un párrafo o un texto más largo).  
